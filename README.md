@@ -29,12 +29,12 @@
 <table style="width:90%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thien34&show_icons=true&locale=en&layout=compact" alt="thien34" width="100%" />
-      <img src="https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&locale=en" alt="thien34" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thien34&show_icons=true&locale=en&layout=compact" alt="anhvanhoa" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=anhvanhoa&show_icons=true&locale=en" alt="anhvanhoa" width="100%" />
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="thien34" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="anhvanhoa" width="100%"/>
       </p>
     </td>
   </tr>
