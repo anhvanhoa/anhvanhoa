@@ -6,16 +6,16 @@
 - ✍ I'm a middle software developer at [VietNam]
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thien34&label=Profile%20views&color=0e75b6&style=flat" alt="thien34" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhvanhoa&label=Profile%20views&color=0e75b6&style=flat" alt="anhvanhoa" /> </p>
 
 <br>
 <h2 align="center"> 📫 How to reach me: </h2>
 <p align="center">
-<a href="https://fb.com/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thien34" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thien34" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hoangkhanhvn179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thien34" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thien34" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="thien34" height="30" width="40" /></a>
+<a href="https://fb.com/anhvanhoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anhvanhoa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anhvanhoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anhvanhoa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hoangkhanhvn179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anhvanhoa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anhvanhoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anhvanhoa" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/anhvanhoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anhvanhoa" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center">Languages and Tools:</h2>
@@ -41,13 +41,13 @@
 </table>
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/thien34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thien34" /></a></p>
+<p><a href="https://www.buymeacoffee.com/anhvanhoa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anhvanhoa" /></a></p>
 <br>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="100%" height="150" alt="thien34" />
+  <img src="svg/trungquandev-quotes.svg" width="100%" height="150" alt="anhvanhoa" />
 </a>
 <br>
 
