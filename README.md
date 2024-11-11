@@ -29,7 +29,7 @@
 <table style="width:90%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thien34&show_icons=true&locale=en&layout=compact" alt="anhvanhoa" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anhvanhoa&show_icons=true&locale=en&layout=compact" alt="anhvanhoa" width="100%" />
       <img src="https://github-readme-stats.vercel.app/api?username=anhvanhoa&show_icons=true&locale=en" alt="anhvanhoa" width="100%" />
     </td>
     <td>
